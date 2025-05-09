@@ -2,6 +2,7 @@
   "type": "micro",
   "wake_word": "Lancelot",
   "author": "Helvio Pedreschi",
+  "website": "https://github.com/helv-io/micro-wake-word-models/",
   "model": "./lancelot.tflite",
   "version": 1,
   "micro": {
