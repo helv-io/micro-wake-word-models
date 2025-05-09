@@ -1,8 +1,8 @@
 {
   "type": "micro",
-  "wake_word": "Lancelot",
-  "author": "Helvio Pedreschi",
-  "website": "https://github.com/helv-io/micro-wake-word-models/",
+  "wake_word": "lancelot",
+  "author": "Kevin Ahrendt",
+  "website": "https://www.kevinahrendt.com/",
   "model": "./lancelot.tflite",
   "version": 1,
   "micro": {
